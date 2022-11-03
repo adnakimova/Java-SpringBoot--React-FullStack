@@ -55,6 +55,8 @@ public class UsersController {
 		return errors;
 	}
 	
+//	This comment line was added to control git operations
+	
 //	@GetMapping("/findByEmail")
 //	public DataResult<User> findByEmail(@RequestParam String email){
 //		return this.userService.findByEmail(email);
